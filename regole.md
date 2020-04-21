@@ -1,7 +1,6 @@
 ---
 title: "Le Regole Del Gioco"
 permalink: "/regole/"
-sitemap: true
 layout: page
 ---
 
